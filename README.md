@@ -1,6 +1,6 @@
-# Momonga vs Usagi
+#rerfrMomonga vs Usagi
 This is our collaborative project based on which Chiikawa character is better, Usagi or Momonga
-## Installation
+##rgbd Installation
  No installation needed
 ## Usage
 Open the index.html on your preferred browser
@@ -12,7 +12,7 @@ Open the index.html on your preferred browser
 5. Submit a pull request :D
 ## History
 TODO: 
-## Credits
+##dCredits
 Adil Yantizhanov and Jake Clarke
-## License
+##eLicense
 MIT License
